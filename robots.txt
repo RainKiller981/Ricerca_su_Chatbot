@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rainkiller981.github.io/Ricerca_su_Chatbot/sitemap.xml
