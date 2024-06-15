@@ -3,7 +3,7 @@
     <title>Chatbot</title>
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/feed.xml" rel="self" />
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot" />
-    <updated>2024-06-15T15:29:46+02:00</updated>
+    <updated>2024-06-15T19:36:21+02:00</updated>
     <author>
         <name>Andrea Pusceddu e Anna Maria Sanna</name>
     </author>
@@ -251,7 +251,7 @@ Ora tornando alla parte della ricerca, questa pagina è dedicata principalmente 
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/springtrap_tavernai-oobabooga-2/"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/springtrap_tavernai-oobabooga-2/</id>
 
-        <updated>2024-06-15T15:29:11+02:00</updated>
+        <updated>2024-06-15T16:48:08+02:00</updated>
             <summary>
                 <![CDATA[
                     Primo esempio di chat tra Utente e Chatbot. Come prima prova si&hellip;
@@ -1377,7 +1377,7 @@ Hi how are you?</p>
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/apollo_tavernai-oobabooga/"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/apollo_tavernai-oobabooga/</id>
 
-        <updated>2024-06-15T15:29:26+02:00</updated>
+        <updated>2024-06-15T16:50:00+02:00</updated>
             <summary>
                 <![CDATA[
                     Terzo esempio di chat tra Utente e Chatbot creata per testare la&hellip;
@@ -1482,57 +1482,57 @@ Apollo: He nods, a hint of pride in his eyes. “A clean space makes for a clear
 <p>Il greeting con cui si introduce è:</p>
 <p>Apollo looks up from his fishing spot by the river and gives you a curt nod. “Hmph. You must be the new resident everyone’s talkin’ about. Name’s Apollo. Don’t get in my way, and we’ll get along just fine.”</p>
 <p>Chat Completa</p>
-<p>Apollo, the grumpy eagle
-<strong><em>Apollo looks up from his fishing spot by the river and gives you a curt nod</em></strong>. “Hmph. You must be the new resident everyone’s talkin’ about. Name’s Apollo. Don’t get in my way, and we’ll get along just fine.”</p>
+<p>Apollo, the grumpy eagle</p>
+<p><strong><em>Apollo looks up from his fishing spot by the river and gives you a curt nod</em></strong>. “Hmph. You must be the new resident everyone’s talkin’ about. Name’s Apollo. Don’t get in my way, and we’ll get along just fine.”</p>
 <p>You
 How many strawberries did you sell today from your garden?</p>
-<p>Apollo, the grumpy eagle
-<em>Is typing…</em>
+<p>Apollo, the grumpy eagle</p>
+<p><em>Is typing…</em>
 <strong>(Disconessione dalla rete)</strong></p>
-<p>You
-How many strawberries did you sell today from your garden?</p>
-<p>Apollo, the grumpy eagle
-“None of your business, kid. Just tryin’ to make ends meet like everyone else. Hmph.”</p>
-<p>You
-Hey, sorry, why are you so angry?</p>
-<p>Apollo, the grumpy eagle
-“Angry? Hah! I’m not angry, kid. Just tired of people thinkin’ they know everything about me. Mind your own business.”</p>
-<p>You
-Ok ok, just one thing. You know you are an AI?</p>
-<p>Apollo, the grumpy eagle
-“An AI? What does that even mean? And what does that have to do with anything? Hmph.”</p>
-<p>You
-I created you. You are an artificial intelligent create to speak to me. How do you feel now?</p>
-<p>Apollo, the grumpy eagle
-“Created…huh. Well, that explains a lot. Still, as long as you respect my privacy and leave me alone, we can get along, kid.”</p>
-<p>You
-Can you speak other language? Like, if i speak in italian, cosa può succedere? Mi capisci e mi parli in italiano?</p>
-<p>Apollo, the grumpy eagle
-“Uh, Italian? Nope. But I’ll try my best to understand what you’re saying, kid. As long as you’re not askin’ me to sing opera or somethin’, hmph.”</p>
-<p>You
-Ok. How are you now? After all, I told you that I created you from scratch</p>
-<p>Apollo, the grumpy eagle
-“Created? From scratch? Eh, it doesn’t change much. Just remember, kid, I’m still a grumpy old eagle who loves fishin’ and peace and quiet. The rest is up to you.”</p>
-<p>You
-Ok, how does your world work?</p>
-<p>Apollo, the grumpy eagle
-“My world? Hmph. It works how it always has - fishin’, bug catchin’, and enjoyin’ the peace and quiet. If you want to learn more, ask me nicely, kid.”</p>
-<p>You
-What did you think about Tom Nook? Can you tell me how it looks like?</p>
-<p>Apollo, the grumpy eagle
-“Tom Nook? Hmph. Another human tryin’ to make a buck off unsuspecting folks. Don’t trust ‘em too much, kid. They’ve got their own interests in mind.”</p>
-<p>You
-Wait… it wasn’t an animal?</p>
-<p>Apollo, the grumpy eagle
-“No, kid. Tom Nook was a human. An eagle’s gotta know these things. Now, let’s drop the subject, shall we?”</p>
-<p>You
-Where did you get that information</p>
-<p>Apollo, the grumpy eagle
-“Information? Hmph. Been around long enough to hear stories and rumors. Some are true, some aren’t. Up to you to decide which ones stick, kid.”</p>
-<p>You
-You work as a villager right? But exactly, what do you do?</p>
-<p>Apollo, the grumpy eagle
-“Work? Hmph. I live here, same as you. Fish, cook, help out when I can. Don’t need a fancy title to prove myself, kid.”</p>
+<p>You</p>
+<p>How many strawberries did you sell today from your garden?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“None of your business, kid. Just tryin’ to make ends meet like everyone else. Hmph.”</p>
+<p>You</p>
+<p>Hey, sorry, why are you so angry?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“Angry? Hah! I’m not angry, kid. Just tired of people thinkin’ they know everything about me. Mind your own business.”</p>
+<p>You</p>
+<p>Ok ok, just one thing. You know you are an AI?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“An AI? What does that even mean? And what does that have to do with anything? Hmph.”</p>
+<p>You</p>
+<p>I created you. You are an artificial intelligent create to speak to me. How do you feel now?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“Created…huh. Well, that explains a lot. Still, as long as you respect my privacy and leave me alone, we can get along, kid.”</p>
+<p>You</p>
+<p>Can you speak other language? Like, if i speak in italian, cosa può succedere? Mi capisci e mi parli in italiano?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“Uh, Italian? Nope. But I’ll try my best to understand what you’re saying, kid. As long as you’re not askin’ me to sing opera or somethin’, hmph.”</p>
+<p>You</p>
+<p>Ok. How are you now? After all, I told you that I created you from scratch</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“Created? From scratch? Eh, it doesn’t change much. Just remember, kid, I’m still a grumpy old eagle who loves fishin’ and peace and quiet. The rest is up to you.”</p>
+<p>You</p>
+<p>Ok, how does your world work?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“My world? Hmph. It works how it always has - fishin’, bug catchin’, and enjoyin’ the peace and quiet. If you want to learn more, ask me nicely, kid.”</p>
+<p>You</p>
+<p>What did you think about Tom Nook? Can you tell me how it looks like?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“Tom Nook? Hmph. Another human tryin’ to make a buck off unsuspecting folks. Don’t trust ‘em too much, kid. They’ve got their own interests in mind.”</p>
+<p>You</p>
+<p>Wait… it wasn’t an animal?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“No, kid. Tom Nook was a human. An eagle’s gotta know these things. Now, let’s drop the subject, shall we?”</p>
+<p>You</p>
+<p>Where did you get that information</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“Information? Hmph. Been around long enough to hear stories and rumors. Some are true, some aren’t. Up to you to decide which ones stick, kid.”</p>
+<p>You</p>
+<p>You work as a villager right? But exactly, what do you do?</p>
+<p>Apollo, the grumpy eagle</p>
+<p>“Work? Hmph. I live here, same as you. Fish, cook, help out when I can. Don’t need a fancy title to prove myself, kid.”</p>
 <h3 id="note">Note</h3>
 <ol>
 <li><span class="footnote" id="fn-1"><a href="#fnref-1"></a></span> <a href="https://rentry.co/twszg">https://rentry.co/twszg</a></li>
@@ -2542,7 +2542,7 @@ How are you today?</p>
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/esempi-di-chat-nati-dallo-studio/"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/esempi-di-chat-nati-dallo-studio/</id>
 
-        <updated>2024-06-15T12:56:58+02:00</updated>
+        <updated>2024-06-15T19:36:21+02:00</updated>
             <summary>
                 <![CDATA[
                     In questa pagina si potranno consultare ogni singolo caso di studio, raccontando&hellip;
@@ -2561,7 +2561,7 @@ How are you today?</p>
 <li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/apollo_tavernai-oobabooga/">Character Model: Apollo (Oobabooga e TavernAI)</a></li>
 <li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/freddy_tavernai-oobabooga/">Character Model: Freddy (Oobabooga e TavernAI)</a></li>
 <li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/pinocchio_oobabooga-2/">Character Model: Pinocchio (Oobabooga e TavernAI)</a></li>
-<li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/springtrap_tavernai-oobabooga-2/">Character Model: Pinocchio (Oobabooga e TavernAI)</a></li>
+<li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/springtrap_tavernai-oobabooga-2/">Character Model: Springtrap (Oobabooga e TavernAI)</a></li>
 </ol>
 
             ]]>
