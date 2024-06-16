@@ -1,3 +1,9 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
 User-agent: *
 Disallow:
 Sitemap: https://rainkiller981.github.io/Ricerca_su_Chatbot/sitemap.xml
