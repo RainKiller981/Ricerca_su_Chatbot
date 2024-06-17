@@ -3,7 +3,7 @@
     <title>Chatbot</title>
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/feed.xml" rel="self" />
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot" />
-    <updated>2024-06-17T00:22:32+02:00</updated>
+    <updated>2024-06-17T10:24:59+02:00</updated>
     <author>
         <name>Andrea Pusceddu e Anna Maria Sanna</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati.html"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati.html</id>
 
-        <updated>2024-06-17T00:10:49+02:00</updated>
+        <updated>2024-06-17T10:23:28+02:00</updated>
             <summary>
                 <![CDATA[
-                    Da qui è possibile scaricare i PDF dei vari articoli PDF della&hellip;
+                    Da qui è possibile scaricare i PDF dei vari articoli. PDF della&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Da qui è possibile scaricare i PDF dei vari articoli</p>
+                <p>Da qui è possibile scaricare i PDF dei vari articoli.</p>
 <p><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/PDF_Ricerca.zip">PDF della Ricerca</a></p>
 
             ]]>
@@ -131,7 +131,7 @@
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm.html"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm.html</id>
 
-        <updated>2024-06-17T00:05:09+02:00</updated>
+        <updated>2024-06-17T10:23:12+02:00</updated>
             <summary>
                 <![CDATA[
                     In breve LLM o Large Language Models sono modelli linguistici di grandi&hellip;
@@ -217,7 +217,7 @@ Gli <em>embeddings</em> che sono vicini fra loro sono considerabili come simili,
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot.html"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot.html</id>
 
-        <updated>2024-06-17T00:00:57+02:00</updated>
+        <updated>2024-06-17T10:23:55+02:00</updated>
             <summary>
                 <![CDATA[
                     In breve Un chatbot è un programma informatico che simula una conversazione&hellip;
@@ -299,7 +299,7 @@ Attenzione: però: non tutti i <em>chatbot</em> sfruttano l’IA<sup class="foot
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/come-si-crea-un-personaggio-per-un-chatbot.html"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/come-si-crea-un-personaggio-per-un-chatbot.html</id>
 
-        <updated>2024-06-16T23:55:40+02:00</updated>
+        <updated>2024-06-17T10:24:14+02:00</updated>
             <summary>
                 <![CDATA[
                     Un introduzione generale Creare un personaggio per entrambe le piattaforme non è&hellip;
@@ -724,7 +724,7 @@ Per essere facilitato nella creazione e gestione di questa parte si consiglia di
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-tavernai.html"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-tavernai.html</id>
 
-        <updated>2024-06-17T00:21:43+02:00</updated>
+        <updated>2024-06-17T10:24:28+02:00</updated>
             <summary>
                 <![CDATA[
                     In breve TavernAI viene definito un “frontend d’atmosfera per chat e scrittura&hellip;
@@ -792,7 +792,7 @@ Come detto in precedenza, TavernAi è un sistema che richiede una backend per po
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-oobabooga.html"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-oobabooga.html</id>
 
-        <updated>2024-06-16T23:30:36+02:00</updated>
+        <updated>2024-06-17T10:24:44+02:00</updated>
             <summary>
                 <![CDATA[
                     In breve Oobabooga (TextGen WebUI) è una piattaforma completa per la generazione&hellip;
@@ -851,7 +851,7 @@ Oobabooga é opensource ed offre un’alternativa alle chatbot con piani a pagam
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-backyardai.html"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-backyardai.html</id>
 
-        <updated>2024-06-16T23:24:54+02:00</updated>
+        <updated>2024-06-17T10:24:59+02:00</updated>
             <summary>
                 <![CDATA[
                     In breve Backyard AI è una piattaforma per esperienze di narrazione e&hellip;

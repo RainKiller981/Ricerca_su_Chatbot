@@ -13,15 +13,15 @@
             "id": "https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati.html",
             "url": "https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati.html",
             "title": "Sezione Dati",
-            "summary": "Da qui è possibile scaricare i PDF dei vari articoli PDF della&hellip;",
-            "content_html": "<p>Da qui è possibile scaricare i PDF dei vari articoli</p>\n<p><a href=\"https://rainkiller981.github.io/Ricerca_su_Chatbot/PDF_Ricerca.zip\">PDF della Ricerca</a></p>\n",
+            "summary": "Da qui è possibile scaricare i PDF dei vari articoli. PDF della&hellip;",
+            "content_html": "<p>Da qui è possibile scaricare i PDF dei vari articoli.</p>\n<p><a href=\"https://rainkiller981.github.io/Ricerca_su_Chatbot/PDF_Ricerca.zip\">PDF della Ricerca</a></p>\n",
             "author": {
                 "name": "Andrea Pusceddu e Anna Maria Sanna"
             },
             "tags": [
             ],
             "date_published": "2024-06-17T00:09:25+02:00",
-            "date_modified": "2024-06-17T00:10:49+02:00"
+            "date_modified": "2024-06-17T10:23:28+02:00"
         },
         {
             "id": "https://rainkiller981.github.io/Ricerca_su_Chatbot/bibliografia-e-sitografia.html",
@@ -63,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2024-06-16T17:17:50+02:00",
-            "date_modified": "2024-06-17T00:05:09+02:00"
+            "date_modified": "2024-06-17T10:23:12+02:00"
         },
         {
             "id": "https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot.html",
@@ -77,7 +77,7 @@
             "tags": [
             ],
             "date_published": "2024-06-16T17:14:22+02:00",
-            "date_modified": "2024-06-17T00:00:57+02:00"
+            "date_modified": "2024-06-17T10:23:55+02:00"
         },
         {
             "id": "https://rainkiller981.github.io/Ricerca_su_Chatbot/chatbot-e-llm.html",
@@ -105,7 +105,7 @@
             "tags": [
             ],
             "date_published": "2024-06-16T17:05:39+02:00",
-            "date_modified": "2024-06-16T23:55:40+02:00"
+            "date_modified": "2024-06-17T10:24:14+02:00"
         },
         {
             "id": "https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-tavernai.html",
@@ -119,7 +119,7 @@
             "tags": [
             ],
             "date_published": "2024-06-16T17:00:23+02:00",
-            "date_modified": "2024-06-17T00:21:43+02:00"
+            "date_modified": "2024-06-17T10:24:28+02:00"
         },
         {
             "id": "https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-oobabooga.html",
@@ -133,7 +133,7 @@
             "tags": [
             ],
             "date_published": "2024-06-16T16:58:08+02:00",
-            "date_modified": "2024-06-16T23:30:36+02:00"
+            "date_modified": "2024-06-17T10:24:44+02:00"
         },
         {
             "id": "https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-backyardai.html",
@@ -147,7 +147,7 @@
             "tags": [
             ],
             "date_published": "2024-06-16T16:52:49+02:00",
-            "date_modified": "2024-06-16T23:24:54+02:00"
+            "date_modified": "2024-06-17T10:24:59+02:00"
         }
     ]
 }
