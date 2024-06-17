@@ -3,7 +3,7 @@
     <title>Chatbot</title>
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/feed.xml" rel="self" />
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot" />
-    <updated>2024-06-17T10:24:59+02:00</updated>
+    <updated>2024-06-17T11:02:59+02:00</updated>
     <author>
         <name>Andrea Pusceddu e Anna Maria Sanna</name>
     </author>
@@ -14,18 +14,20 @@
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/sezione-dati/</id>
 
-        <updated>2024-06-17T10:23:28+02:00</updated>
+        <updated>2024-06-17T10:58:31+02:00</updated>
             <summary>
                 <![CDATA[
-                    Da qui è possibile scaricare i PDF dei vari articoli. PDF della&hellip;
+                    <p>Da qui è possibile scaricare i PDF dei vari articoli.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Da qui è possibile scaricare i PDF dei vari articoli.</p>
+                
+
 <p><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/PDF_Ricerca.zip">PDF della Ricerca</a></p>
 
             ]]>
@@ -36,18 +38,21 @@
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/bibliografia-e-sitografia.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/bibliografia-e-sitografia.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/bibliografia-e-sitografia/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/bibliografia-e-sitografia/</id>
 
-        <updated>2024-06-17T00:08:53+02:00</updated>
+        <updated>2024-06-17T10:56:57+02:00</updated>
             <summary>
                 <![CDATA[
-                    Bibliografia R.Pedrazzi, Futuri Possibili, Scenari d’arte e intelligenza artificiale, Jaca Book, Milano,&hellip;
+                    <p>Di seguito la bibliografia e la sitografia della ricerca.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3 id="bibliografia">Bibliografia</h3>
+                
+
+<h3 id="bibliografia">Bibliografia</h3>
 <ul>
 <li>R.Pedrazzi, <em>Futuri Possibili, Scenari d’arte e intelligenza artificiale</em>, Jaca Book, Milano, 2021</li>
 </ul>
@@ -94,13 +99,13 @@
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/conclusioni-della-ricerca.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/conclusioni-della-ricerca.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/conclusioni-della-ricerca/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/conclusioni-della-ricerca/</id>
 
         <updated>2024-06-17T00:22:32+02:00</updated>
             <summary>
                 <![CDATA[
-                    Le analisi delle chat, unite allo studio approfondito delle piattaforme che supportano&hellip;
+                    Le analisi delle chat, unite allo studio approfondito delle piattaforme che supportano i chatbot AI, ci forniscono una visione chiara del potenziale di queste tecnologie.
                 ]]>
             </summary>
         <content type="html">
@@ -128,20 +133,20 @@
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm/</id>
 
         <updated>2024-06-17T10:23:12+02:00</updated>
             <summary>
                 <![CDATA[
-                    In breve LLM o Large Language Models sono modelli linguistici di grandi&hellip;
+                    In breve LLM o Large Language Models sono modelli linguistici di grandi dimensioni di deep learning in grado di svolgere un’ampia gamma di compiti legati&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3 id="in-breve">In breve</h3>
 <p><em>LLM</em> o <em>Large Language Models</em> sono modelli linguistici di grandi dimensioni di deep learning in grado di svolgere un’ampia gamma di compiti legati all’elaborazione del linguaggio.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/LLM.png" alt="Image description" width="926" height="300"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/LLM.png" alt="Image description" width="926" height="300"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM-lg.webp 1024w"></figure></p>
 <p><em>Rappresentazione schematica semplificata di un LLM</em></p>
 <h3 id="addestramento">Addestramento</h3>
 <p>I <em>LLM</em> vengono addestrati su una grande quantità e varietà di dati, che consente loro di imparare a riconoscere schemi complicati, concatenati e inoltre captare le sfumature linguistiche di quello che è il linguaggio umano e di mettere a punto i loro parametri.
@@ -149,7 +154,7 @@ La maggior parte dei <em>LLM</em> viene addestrata su informazioni e dati ricava
 Questi dati (in forma testuale) vengono dunque utilizzati per addestrare i nuovi <em>LLM</em>. 
 Modelli come <em>Llama, GPT3.5/4 e GPT-J</em> vengono “allenati” tramite una modalità chiamata “modellazione linguistica causale”. 
 In questo caso, l’obiettivo del modello è quello di prevedere il token di testo in base al contesto in cui ci si trova.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/LLM2.png" alt="Image description" width="488" height="364"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/LLM2.png" alt="Image description" width="488" height="364"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM2-lg.webp 1024w"></figure></p>
 <p><em>Addestramento di un LLM</em></p>
 <p>Esempio: se tu chiedi a <em>GPT4</em> <em>“Che cosa pensi della guerra?”</em>  ti risponderà frasi come <em>“La guerra è un fenomeno complesso e devastante che ha accompagnato l’umanità per millenni. Le sue implicazioni sono vastissime e coprono una gamma di aspetti che vanno dal sociale, politico ed economico fino a quelli umanitari ed etici.”</em> andando poi ad elencarne caratteri aggiuntivi come aspetti negativi, possibili giustificazioni e considerazioni etiche e morali, senza averli richiesti.</p>
 <p>L’addestramento dei modelli linguistici causali può essere molto impegnativo per la nostra macchina. Spesso sono necessarie notevoli risorse “computazionali”, tra cui migliaia di unità di elaborazione, per addestrare modelli di larga scala come <em>Llama</em> o <em>ChatGPT</em><sup class="footnote" id="fnref-1"><a href="https://wikia.schneedc.com/en/llm " rel="footnote">1</a></sup>.</p>
@@ -161,7 +166,7 @@ Tuttavia, separare le parole in base alle lettere dell’alfabeto è sostanzialm
 D’altra parte, anche la separazione delle parole in base alla parola stessa è inefficiente, dato che per l’inglese sarebbe addirittura necessario un vocabolario composto da 171.476 unità. 
 Per questo motivo, creiamo un modello di <em>tokenizer</em> di piccole dimensioni, addestrato tramite molteplici testi, per fornire la <em>tokenizzazione</em> più efficace con il vocabolario più piccolo (massima resa con il minimo sforzo).</p>
 <p>Un <em>tokenizer</em> ha il compito di preparare gli input per un determinato modello. La maggior parte dei <em>tokenizer</em> è disponibile in due versioni: un’implementazione completa in python e un’implementazione “veloce” basata sulla libreria Rust Tokenizers. L’implementazione “veloce” consente una significativa accelerazione, in particolare quando si esegue la <em>tokenizzazione</em> in batch con metodi aggiuntivi per la mappatura tra la stringa originale (caratteri e parole) e lo spazio dei token (ad esempio, ottenendo l’indice del token che comprende un dato carattere o l’intervallo di caratteri corrispondenti a un dato token).</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/Token.png" alt="Image description" width="1400" height="788"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/Token.png" alt="Image description" width="1400" height="788"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Token-lg.webp 1024w"></figure></p>
 <p><em>Rappresentazione grafica del funzionamento del processo del <strong>Tokenization</strong></em></p>
 <p>Per esempio, quando si lavora con i modelli di intelligenza artificiale, spesso si vanno a creare dei dati di testo sotto forma di vettori numerici. 
 In questo contesto, i <em>token</em> sono singole parole del testo e le caratteristiche del modello di apprendimento automatico corrispondono alle parole presenti nel vocabolario. </p>
@@ -173,7 +178,7 @@ In questo contesto, i <em>token</em> sono singole parole del testo e le caratter
 <p>L’input <em>tokenizzato</em> viene elaborato attraverso diversi livelli. Un primo livello assegna un vettore a ciascun token. A seconda dell’architettura, questo vettore può contenere o meno la posizione del token nella sequenza.</p>
 <p><em>Embendding</em> dei token: Il primo vettore rappresenta il significato semantico del token, appreso durante l’addestramento. Serve come punto di partenza per la comprensione del modello.
 Gli <em>embeddings</em> che sono vicini fra loro sono considerabili come simili, utilizzando gli <em>embeddings</em> per questa funzione, l’algoritmo velocizza il processo di identificazione di parole simili fra loro, in quanto la distanza fra due vettori identifica la loro relazione (più piccola è la distanza, maggiore è la loro relazione)</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/Embeddings.jpg" alt="Image description" width="5388" height="2460"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/Embeddings.jpg" alt="Image description" width="5388" height="2460"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/Embeddings-lg.webp 1024w"></figure></p>
 <p><em>Semplificazione del processo di embedding</em></p>
 <p>Nelle <em>chatbot</em> e negli <em>LLM</em> il contesto che viene affidato ad ogni parola viene considerato un <em>embedding</em> in supporto alla parola stessa. In questo modo il significato di interi testi, chat e conversazioni può essere analizzato e studiato.</p>
 <p>Esempi di <em>embeddings</em> testuali che vengono proposti da <em>OpenAi</em> per <em>ChatGPT</em> vengono utilizzati per funzioni come la ricerca, la classificazione e l’identificazione di anomalie.<sup class="footnote" id="fnref-1"><a href="https://www.cloudflare.com/it-it/learning/ai/what-are-embeddings/" rel="footnote"></a>3</sup></p>
@@ -190,7 +195,7 @@ Gli <em>embeddings</em> che sono vicini fra loro sono considerabili come simili,
 <h3 id="output-generation">Output Generation</h3>
 <p>Come ultimo step il modello utilizza la funzione <em>softmax</em>. Questa funzione converte i punteggi che indicano la probabilità che in quel modello ritenga necessario l’utilizzo di quel token in quella determinata situazione. Queste probabilità indicano la possibilità che ogni token sia la parola successiva nella sequenza di output.</p>
 <p>Esempio: mettendo il caso in cui l’utente chiede al chatbot <em>“Che ore sono?”</em>, il chatbot attraverso la funzione <em>softmax</em> creerà la frase più adatta a quella situazione che potrebbe essere <em>“Sono le 20:34”</em> oppure <em>“Guardati da solo l’ora”</em>.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/LLM3.jpg" alt="Image description" width="1400" height="700"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/LLM3.jpg" alt="Image description" width="1400" height="700"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/24/responsive/LLM3-lg.webp 1024w"></figure></p>
 <p><em>Come funzionerebbe un LLM</em></p>
 <p>Infine, il <em>LLM</em> produce un output selezionando i token. La scelta è influenzata da vari fattori che vedremo in seguito<sup class="footnote" id="fnref-1"><a href="https://wikia.schneedc.com/en/llm " rel="footnote">4</a></sup>.</p>
 <p>Si suggeriscono i seguenti video:</p>
@@ -214,13 +219,13 @@ Gli <em>embeddings</em> che sono vicini fra loro sono considerabili come simili,
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot/</id>
 
         <updated>2024-06-17T10:23:55+02:00</updated>
             <summary>
                 <![CDATA[
-                    In breve Un chatbot è un programma informatico che simula una conversazione&hellip;
+                    In breve Un chatbot è un programma informatico che simula una conversazione con un utente, come se fosse una persona. Quando si parla con un&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -228,17 +233,17 @@ Gli <em>embeddings</em> che sono vicini fra loro sono considerabili come simili,
                 <h3 id="in-breve">In breve</h3>
 <p>Un <em>chatbot</em> è un programma informatico che simula una conversazione con un utente, come se fosse una persona. 
 Quando si parla con un chatbot, sembra di messaggiare con qualcuno che capisce quello che si dice e dunque risponde di conseguenza. E’ un programma che può dialogare in tempo reale con le persone, rispondendo alle loro domande usando le informazioni che possiede. Lo incontriamo spesso sui siti web come finestre di chat pronte ad offrire assistenza, o come assistenti vocali come Siri e Alexa. Utilizzati in vari settori, i chatbot aiutano con gli acquisti online, forniscono informazioni e supportano i clienti, soprattutto nel customer care e nei servizi bancari.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/Chatbot.png" alt="Image description" width="1200" height="628"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/Chatbot.png" alt="Image description" width="1200" height="628"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Chatbot-lg.webp 1024w"></figure></p>
 <p><em>I chatbot nell’immaginario collettivo ;)</em></p>
 <p>Alcuni <em>chatbot</em> rispondono solo tramite messaggi predefiniti e non possono capire veramente quello gli si dice. Allo stesso tempo però i <em>chatbot</em> moderni usano tecnologie avanzate al fine di migliorare la comprensione delle domande degli utenti e automatizzare le risposte. 
 Una di queste tecnologie è l’elaborazione del linguaggio naturale <em>(NLP)</em>, che aiuta i chatbot a comprendere e rispondere alle domande in modo più naturale.
 Attenzione: però: non tutti i <em>chatbot</em> sfruttano l’IA<sup class="footnote" id="fnref-1"><a href="none" rel="footnote">1</a></sup>.</p>
 <h3 id="storicamente">Storicamente</h3>
 <p>Per comprendere l’evoluzione dei chatbot come forme di Intelligenza Artificiale, bisogna tornare nel 1950 quando Alan Turing pubblicò un articolo in cui si chiedeva se una macchina potesse pensare. Per rispondere, ideò il <em>Test di Turing</em>, che consiste nel far comunicare una macchina e due persone tramite un’interfaccia. Se l’interrogante non riesce a distinguere la macchina dall’umano, il test è superato.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/Test_Turing.jpg" alt="Image description" width="520" height="354"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/Test_Turing.jpg" alt="Image description" width="520" height="354"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Test_Turing-lg.webp 1024w"></figure></p>
 <p><em>Esempio di Test di Turing</em></p>
 <p>Il primo esempio di chatbot fu <em>ELIZA</em> - creato nel 1966 da Joseph Weizenbaum al MIT. ELIZA - simulava una conversazione con uno psicoterapeuta, riconoscendo parole chiave per formulare risposte coerenti. Il nome <em>ELIZA</em> si ispira al personaggio di <em>Eliza Doolittle</em>, che divenne una dama elegante nella commedia <em>Pigmalione</em> di George Bernard Shaw<sup class="footnote" id="fnref-1"><a href="none" rel="footnote">2</a></sup>.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/Eliza.webp" alt="Image description" width="782" height="573"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-xs.webp 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-xl.webp 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/Eliza.webp" alt="Image description" width="782" height="573"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/23/responsive/Eliza-lg.webp 1024w"></figure></p>
 <p><em>E.L.I.Z.A. in tutta la sua bellezza informatica</em></p>
 <p>Il funzionamento dei chatbot dipende da come sono stati programmati o sviluppati. In base allo stile di conversazione, esistono principalmente due tipi di chatbot:</p>
 <ul>
@@ -271,21 +276,23 @@ Attenzione: però: non tutti i <em>chatbot</em> sfruttano l’IA<sup class="foot
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/chatbot-e-llm.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/chatbot-e-llm.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/chatbot-e-llm/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/chatbot-e-llm/</id>
 
-        <updated>2024-06-17T00:01:27+02:00</updated>
+        <updated>2024-06-17T11:02:59+02:00</updated>
             <summary>
                 <![CDATA[
-                    In questa sezione si approfondisce la questione su cosa siano i Chatbot&hellip;
+                    <p>In questa sezione si approfondisce la questione su cosa siano i Chatbot e cosa siano gli LLM</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>In questa sezione si approfondisce la questione su cosa siano i Chatbot e cosa siano gli LLM</p>
+                
+
 <ul>
-<li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot.html">Cosa è un Chatbot?</a></li>
-<li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm.html">Cosa è un LLM?</a></li>
+<li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-chatbot/">Cosa è un Chatbot?</a></li>
+<li><a href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm/">Cosa è un LLM?</a></li>
 </ul>
 
             ]]>
@@ -296,18 +303,21 @@ Attenzione: però: non tutti i <em>chatbot</em> sfruttano l’IA<sup class="foot
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/come-si-crea-un-personaggio-per-un-chatbot.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/come-si-crea-un-personaggio-per-un-chatbot.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/come-si-crea-un-personaggio-per-un-chatbot/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/come-si-crea-un-personaggio-per-un-chatbot/</id>
 
-        <updated>2024-06-17T10:24:14+02:00</updated>
+        <updated>2024-06-17T11:02:11+02:00</updated>
             <summary>
                 <![CDATA[
-                    Un introduzione generale Creare un personaggio per entrambe le piattaforme non è&hellip;
+                    <p>In questa sezione si è deciso di creare una “Dumb Guide” per permettere a chiunque di testare con le chatbot.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3 id="un-introduzione-generale">Un introduzione generale</h3>
+                
+
+<h3 id="un-introduzione-generale">Un introduzione generale</h3>
 <p>Creare un personaggio per entrambe le piattaforme non è un lavoro estremamente complicato, ma richede una grande capacità di adattamento, una conoscenza base dell’inglese e dei linguaggi informatici.</p>
 <p>Prima ancora di parlare di “come si ipotizza un personaggio”, bisogna impostare quattro regole base, riassunte al meglio nella _Noxx’s Guide on Making (NSFW) Bots<sup class="footnote" id="fnref-1"><a href="https://rentry.co/cringeguide" rel="footnote">1</a></sup>, detta anche <em>Cringeguide</em>:</p>
 <ol>
@@ -316,19 +326,19 @@ Attenzione: però: non tutti i <em>chatbot</em> sfruttano l’IA<sup class="foot
 <li>Non avere paura di guardare lavoro che altri utenti hanno già sviluppato, in quanto nessuno è un esperto. Ci sono molte guide online che supportano gli utenti novizi nella creazione di questi modelli, soprattutto uno di questi è stato utilizzato come base per la ricerca di questo progetto;</li>
 <li>Personaggi che derivano da media esterni, come serie tv, film, videogiochi, hanno bisogno di ricerche più approfondite di quelli personali. Qui bisogna dare un punto aggiuntivo: si possono utilizzare mezzi come ChatGPT per il supporto alla creazione e alla ricerca del personaggio, ma bisogna sempre RILEGGERE e RIANALIZZARE il risultato, in quanto ChatGPT non rilascia mai un risultato perfetto.</li>
 </ol>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Noxx.png" alt="Image description" width="906" height="877"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Noxx.png" alt="Image description" width="906" height="877"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Noxx-lg.webp 1024w"></figure></p>
 <p><em>Noxx’s Guide on Making (NSFW) Bots</em></p>
 <p>Introdotte queste piccole regole, si passa alla parte iniziale di questo processo: l’ideazione del character model.</p>
 <p>Lo studio di quest’ultimo si basa principalmente su 3 step, che si possono riassumere in: “Studio psicologico”, “Analisi fisica” e “Scopo e Aspettative”.</p>
 <p>Lo studio psicologico del personaggio è la capacità di intendere che caratteristiche psicologiche si vogliano affidare a quel personaggio, ossia quali tratti catteriali, personalità, umori, reazioni, atteggiamenti che farebbe lui stesso, cosa gli piace e cosa odia, accenti e molto altro.</p>
 <p>Esempio: se si vuole creare un personaggio basato su una figura come Pinocchio di Collodi, si cercherà di ricreare le caratteristiche di un bambino dispettoso, bugiardo ma anche infantile e innocente. Con la creazione del penultimo studio, si vedrà come impostare, in due linguaggi diversi, il personaggio di Pinocchio.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Personaggio.jpg" alt="Image description" width="640" height="285"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Personaggio.jpg" alt="Image description" width="640" height="285"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Personaggio-lg.webp 1024w"></figure></p>
 <p><em>La creazione di una psicologia nell’immaginario collettivo, comunque più sveglia della gente dietro</em></p>
 <p>L’analisi fisica del personaggio è la sua descrizione reale, ossia come appare, cosa veste, che particolarità notiamo a livello visivo, come deve apparire all’utente il personaggio e molto altro. Questo aspetto diventa fondamentale in chatbot studiati per la pornografia, dove la macchina riesce difficilmente a descrivere appieno, in maniera autonoma, le caratteristiche biologiche del personaggio, come la corporatura, le dimensioni e il tipo di genitale.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Design.png" alt="Image description" width="1024" height="1024"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Design.png" alt="Image description" width="1024" height="1024"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Design-lg.webp 1024w"></figure></p>
 <p><em>Il processo per creare la descrizione fisica di un personaggio è molto simile al lavoro che fa il character designer</em></p>
 <p>Lo scopo del personaggio e quale utente si dovrebbe aspettare davanti a sé. Questo punto sembrerebbe il più complicato da analizzare, ma si basa principalmente su quelle che sono le intenzioni dell’autore (nei casi che vedremo motivi variegati possono essere di studio e ricerca, ricreativi, scherzosi o anche stimolo e ricerca sessuale) e sulle intenzioni che ha l’utente verso il model. In questo ambito, lo “scenario” darà una mano a dare la forma al personaggio, in quanto il character non si forma su una vera “memoria”, ma basa tutto il suo discorso sul testo della “Scenery” per la memoria a lungo termine e sugli ultimi messaggi creati per la memoria a breve termine (di base si prende gli ultimi 4 messaggi e le ultime 4 risposte generate nella chat, ma si possono aumentare in base alle necessità).</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Role-play.webp" alt="Image description" width="1380" height="780"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-xs.webp 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-xl.webp 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Role-play.webp" alt="Image description" width="1380" height="780"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Role-play-lg.webp 1024w"></figure></p>
 <p><em>Come in questa immagine. il chatbot dev’essere in grado di simulare una conversazione qualunque sia lo scopo.</em></p>
 <h2 id="come-si-crea-un-personaggio-da-zero-i-linguaggi-di-programmazione">Come si crea un personaggio da zero: i linguaggi di programmazione.</h2>
 <p>Quando si crea un personaggio da zero, senza alcun tipo di conoscenza pregressa, ci sono due tipi di persone: gli avventurosi e le persone intelligenti. Non bisogna sempre essere persone avventurose, in quanto si ritroveranno ostacoli sempre più complessi a bloccare la strada. Bisogna essere sempre pronti a vedere lavori che altri hanno preparato in anticipo per poter comprendere al meglio il proprio lavoro.</p>
@@ -345,7 +355,7 @@ Per questa ricerca e per la formattazione del testo<sup class="footnote" id="fnr
 <li><em>Far progredire la comprensione scientifica delle lingue e dell’uso del linguaggio, utilizzando gli strumenti dell’IA insieme alla linguistica, alla psicologia cognitiva e alle neuroscienze.</em></li>
 </ul>
 <p>L’NLP (o Natural Language Programming) è uno spazio di ricerca avanzata che unisce informatica, intelligenza artificiale e linguistica, in quanto si studia, descritto in termini semplici ed essenziali, come si può far comrpendere ad un algoritmo informatico il linguaggio umano, nonostante le sue ambiguità come il tono delle parole, il loro significato e il loro contesto.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Natural_2.png" alt="Image description" width="1020" height="602"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Natural_2.png" alt="Image description" width="1020" height="602"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_2-lg.webp 1024w"></figure></p>
 <p><em>Come la gente si immagina il Natural Language</em></p>
 <p>Questo ambito si focalizza principalmente sui meccanismi che permettono alle persone di comprendere il contenuto di una comunicazione umana e sullo sviluppo di strumenti che possano supportare i sistemi informatici nella comprensione testuale.</p>
 <p>L’elaborazione del linguaggio naturale necessita di una serie di fasi che tentano di superare le ambiguità del linguaggio umano, tra queste possiamo indicare come le principali la Tokenization, l’analisi morfo-lessicale, l’analisi sintattica, il NEM e l’analisi semantica.</p>
@@ -366,7 +376,7 @@ In una prima fase identifica le parti nominali del testo usando Named Entity, nu
 <li><p>Machine Learning, che riassunta come definizione si tratta di una tecnica di intelligenza artificiale che permette al NLP di apprendere e migliorare le proprie capacità.</p>
 </li>
 </ul>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Natural_.webp" alt="Image description" width="1430" height="1636"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-xs.webp 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-xl.webp 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Natural_.webp" alt="Image description" width="1430" height="1636"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Natural_-lg.webp 1024w"></figure></p>
 <p><em>Schematizzazione del NLP</em></p>
 <p>Ci sono 4 diversi tipi di apprendimento che vengono usati nel Machine Learning:</p>
 <ul>
@@ -500,7 +510,7 @@ In questa ricerca si analizeranno quelli più comuni, con gli ultimi due sistemi
 <li>Powers(Fire manipulation)</li>
 </ol>
 <p>Per quanto riguarda la descrizione fisica e psicologica del personaggio, la prima cosa da imparare è utilizzare i termini corretti nella lingua in cui si sta selezionando. Trattandosi dell’inglese, si consiglia sempre di usare un Thesaurus e un archivio di tag per vedere se i termini e le caratteristiche che stiamo cercando si possono applicare in maniera corretta<sup class="footnote" id="fnref-1"><a href="https://vndb.org/i" rel="footnote">8</a></sup> <sup class="footnote" id="fnref-1">.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Vndb-2.png" alt="Image description" width="1280" height="873"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Vndb-2.png" alt="Image description" width="1280" height="873"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Vndb-2-lg.webp 1024w"></figure></p>
 <p><em>Il più grande archivio di tag per le Visual Novel</em></p>
 <p>Le features, invece, sono elementi che caratterizzano il personaggio, escludendo però l’abbigliamento (che andrà inserito nella Description, in quanto si tratta di una parte in cui rientrano tutto ciò che non c’entra niente o che non funziona negli altri spazi). In questo settore si possono inserire elementi come cicatrici, tagli, colori degli occhi, particolarità fisiche specifiche e altre. Utile anche se il personaggio che vogliamo inserire non è umano.
 Un esempio per questa situazione è:</p>
@@ -572,7 +582,7 @@ _Freddy: "Ah, I've been searching for you," he greets you with a tender smile, h
 <li>Example Dialogue: uguale a quello presente negli altri due sistemi;</li>
 <li>First Message: uguale al Greeting Message e al char_greeting.</li>
 </ul>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Elias_1.png" alt="Image description" width="512" height="768"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Elias_1.png" alt="Image description" width="512" height="768"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Elias_1-lg.webp 1024w"></figure></p>
 <p><em>Immagine di Elias Ainsworth creata con il sistema di PixAI</em></p>
 <p>Da questo punto in poi iniziano le principali differenze per il personaggio nel sistema di BackyardAi, già incluse come parti essenziali per il character model:</p>
 <ul>
@@ -663,7 +673,7 @@ _Freddy: "Ah, I've been searching for you," he greets you with a tender smile, h
 }
 </code></pre>
 <p>}</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Apollo.jpg" alt="Image description" width="512" height="768"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/Apollo.jpg" alt="Image description" width="512" height="768"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/21/responsive/Apollo-lg.webp 1024w"></figure></p>
 <p><em>Immagine di Apollo creata con IA</em></p>
 <h2 id="come-si-caricano-sui-programmi">Come si caricano sui programmi</h2>
 <p>Partendo da quello più semplice, ossia il modello di BackyardAi, il character model si inserisce totalmente a mano, seguendo lo schema che propone il programma e precedentemente inserito.
@@ -721,13 +731,13 @@ Per essere facilitato nella creazione e gestione di questa parte si consiglia di
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-tavernai.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-tavernai.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-tavernai/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-tavernai/</id>
 
         <updated>2024-06-17T10:24:28+02:00</updated>
             <summary>
                 <![CDATA[
-                    In breve TavernAI viene definito un “frontend d’atmosfera per chat e scrittura&hellip;
+                    In breve TavernAI viene definito un “frontend d’atmosfera per chat e scrittura di storie, compatibile con molti backends”. Per facilitare la comprensione di questa frase,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -735,7 +745,7 @@ Per essere facilitato nella creazione e gestione di questa parte si consiglia di
                 <h3 id="in-breve">In breve</h3>
 <p>TavernAI viene definito un <em>“frontend d’atmosfera per chat e scrittura di storie, compatibile con molti backends”</em>.</p>
 <p>Per facilitare la comprensione di questa frase, per capire cosa siano il frontend e il backend, basta immaginare la forma di una testa. Il frontend è l’interfaccia grafica utente (GUI) con il quale gli utenti possono interagire direttamente, nei vari spazi come il menu di navigazione e con vari elementi della GUI come pulsanti, immagini ed elementi grafici. Riprendendo l’esempio della testa, il frontend è il viso, ciò che si vede direttamente davanti a noi.<br>Il back-end, invece, è il complesso delle funzionalità che gestiscono la chatbot. Nel caso della testa, se il frontend è il viso, il backend è il cervello, lo spazio in cui la maggior parte delle operazioni e dei processi avviene<sup class="footnote" id="fnref-1"><a href="https://aws.amazon.com/it/compare/the-difference-between-frontend-and-backend/#:~:text=Il%20termine%20front%2Dend%20si,%2C%20pulsanti%2C%20immagini%20e%20grafici." rel="footnote">1</a></sup>.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/Tavern_2-2.jpg" alt="Image description" width="1280" height="720"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/Tavern_2-2.jpg" alt="Image description" width="1280" height="720"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_2-2-lg.webp 1024w"></figure></p>
 <p><em>Interfaccia utente di TavernAI</em></p>
 <p>TavernAI è un frontend con un design completo, che si compone di funzionalità e caratteristiche ideate più per il gioco di ruolo interattivo e il roleplay come:</p>
 <ul>
@@ -744,7 +754,7 @@ Per essere facilitato nella creazione e gestione di questa parte si consiglia di
 <li>Chat di gruppo con i vari personaggi, nella quale si possono testare le chatbot tra di loro simulando una conversazione di gruppo. Questa funzione risulta utile per vedere come il personaggio reagisce a una situazione simulata, dove stimoli da parte di altri personaggi permettono di sviluppare un dialogo sempre più complesso e completo;</li>
 <li>Modalità storia: una funzione più adatta alle chatbot studiate per i roleplay, i GDR e le visual novel. Funzione che si basa sulla teoria delle <em>visual novels</em><sup class="footnote" id="fnref-1"><a href="https://www.lospaziobianco.it/visual-novel-unintroduzione-al-romanzo-visivo-giapponese/" rel="footnote">2</a></sup>, storie create da sviluppatori di videogiochi dove, in base alla scelta che viene presa dal giocatore, la trama può cambiare totalmente. Esempio di videogioco divenuto popolare per questa sua capacità è <em>Doki Doki</em> Literatures Club<sup class="footnote" id="fnref-1"><a href="https://it.wikipedia.org/wiki/Doki_Doki_Literature_Club" rel="footnote">3</a></sup>, una visual novel a tema horror che sfrutta le meccaniche di questo genere per alterare completamente le prospettive dei giocatori e prenderli di sorpresa;</li>
 </ul>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/Doki.jpg" alt="Image description" width="1920" height="1080"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/Doki.jpg" alt="Image description" width="1920" height="1080"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Doki-lg.webp 1024w"></figure></p>
 <p><em>Scena tratta dal gioco <strong>Doki Doki Literatures Club</strong></em></p>
 <ul>
 <li>Informazioni sul mondo, ossia uno spazio dedicato dove si utilizza un sistema di creazione dell’ambientazione simili a quelle dei giochi di ruolo come Dungeons and Dragons o Baldur’s Gate. Più è articolata e complessa l’ambientazione, più è facile che il character si immedesimi nella storia e nei suoi ambienti, diventando quasi una parte integrante di essa;</li>
@@ -768,7 +778,7 @@ Per essere facilitato nella creazione e gestione di questa parte si consiglia di
 <li><p><strong>Ottimizzazione AI</strong>: Automatizza la preparazione dell’AI per il gioco di ruolo, inviando istruzioni specifiche che migliorano l’esperienza di chat. Può anche consentire, opzionalmente, l’inclusione di contenuti per adulti nelle sessioni di gioco di ruolo<sup class="footnote" id="fnref-1"><a href="https://github.com/TavernAI/TavernAI/blob/main/faq.md" rel="footnote">5</a></sup>.</p>
 </li>
 </ul>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/Tavern_3.png" alt="Image description" width="1043" height="765"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/Tavern_3.png" alt="Image description" width="1043" height="765"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/20/responsive/Tavern_3-lg.webp 1024w"></figure></p>
 <p><em>Esempio di chat estratta da TavernAI</em></p>
 <p>In supporto a sistemi come Obsidian, Tavern può diventare un ottimo centro di studio e sviluppo non solo per giochi, ma anche per sistemi di chatbot complessi che interagiscono in maniera autonoma.
 Come detto in precedenza, TavernAi è un sistema che richiede una backend per poter funzionare appieno. Nel caso di studio, la backend che è stata utilizzata per far interagire le chatbot è Oobabooga.</p>
@@ -789,13 +799,13 @@ Come detto in precedenza, TavernAi è un sistema che richiede una backend per po
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-oobabooga.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-oobabooga.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-oobabooga/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-oobabooga/</id>
 
         <updated>2024-06-17T10:24:44+02:00</updated>
             <summary>
                 <![CDATA[
-                    In breve Oobabooga (TextGen WebUI) è una piattaforma completa per la generazione&hellip;
+                    In breve Oobabooga (TextGen WebUI) è una piattaforma completa per la generazione di testi, ispirata alla Stable Diffusion Web UI di AUTOMATIC1111. Offre sia un’interfaccia&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -803,14 +813,14 @@ Come detto in precedenza, TavernAi è un sistema che richiede una backend per po
                 <h2 id="in-breve">In breve</h2>
 <p><em>Oobabooga</em> (TextGen WebUI) è una piattaforma completa per la generazione di testi, ispirata alla Stable Diffusion Web UI di AUTOMATIC1111. Offre sia un’interfaccia utente che un sistema di frontend e il backend (come nel caso di TavernAI), per la gestione dei modelli di testo, di fatto <em>Oobabooga</em> é considerato a tutti gli effetti il cosiddetto equivalente testuale di AUTOMATIC1111</p>
 <p><em>Automatic1111</em> è un’interfaccia browser open-source, basata sulla libreria Python Gradio, progettata per i modelli IA atti  alla generazione di immagini Stable Diffusion. La sua popolarità deriva da un’interfaccia utente intuitiva, un’ampia gamma di funzionalità, supporto della comunità e facilità d’uso. Offre un’installazione semplice e una GUI uniforme per i diversi modelli.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Automatic1111.png" alt="Image description" width="1400" height="799"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Automatic1111.png" alt="Image description" width="1400" height="799"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Automatic1111-lg.webp 1024w"></figure></p>
 <p><em>Interfaccia di Automatic1111</em></p>
 <p><em>Oobabooga</em> si distingue nell’ambito dei modelli IA che lavorano tramite testo, fornendo una piattaforma raffinata per sperimentare rapidamente con modelli IA di conversazione o creazione di personaggi - dei chatbot, ognuno con una sua “personalità”, che funzionano tramite IA e possono essere creati da zero oppure customizzati -. La sua interfaccia GUI non necessita un’accurata conoscenza di Python e le librerie di machine learning. Facilita inoltre l’installazione dei modelli tramite file ‘.GGUF’ e permette l’integrazione di modelli HuggingFace con un solo clic. Oobabooga supporta la creazione e l’interazione con personaggi grazie all’ IA, offrendo strumenti utili per i personaggi e l’addestramento dei vari  modelli.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Oobabooga.jpg" alt="Image description" width="1152" height="648"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-xs.jpg 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-sm.jpg 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-md.jpg 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-xl.jpg 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Oobabooga.jpg" alt="Image description" width="1152" height="648"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Oobabooga-lg.webp 1024w"></figure></p>
 <p><em>Interfaccia di Oobabooga</em></p>
 <p>Alcuni programmi simili ad <em>Oobabooga</em> sono <em>TavernAI e KoboldAI</em>, programmi che si concentrano principalmente sulla frontend, ma che grazie ad applicazioni come Ooba riescono a funzionare sia come frontend che backend.  Oobabooga si concentra principalmente su  applicativi per la generazione di testo per il gioco di ruolo, offrendo interfacce più <em>user-friendly</em>. Se i primi due precedentemente citati sono più vicini ad un tipo di utente principiante o che non vuole applicarsi sul coding, Oobabooga è considerabile più adatto e versatile per gli esperimenti con LLM e con funzionalità ed impostazioni più personali.
 Oobabooga é opensource ed offre un’alternativa alle chatbot con piani a pagamento. Gli utenti possono così sperimentare senza i pregiudizi intrinseci delle risposte predefinite, potendo scaricare LLM da programmi come <em>Huggingface</em>.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Kobold.webp" alt="Image description" width="965" height="894"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-xs.webp 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-xl.webp 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Kobold.webp" alt="Image description" width="965" height="894"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Kobold-lg.webp 1024w"></figure></p>
 <p><em>Interfaccia utente di KoboldAI</em></p>
 <p>Alcuni lati negativi di <em>Oobabooga</em> sono:</p>
 <ul>
@@ -830,7 +840,7 @@ Oobabooga é opensource ed offre un’alternativa alle chatbot con piani a pagam
 <li><strong>Supporto per precisione a 8-bit e 4-bit</strong>: Per un’ottimizzazione delle risorse.</li>
 <li><strong>Streaming di testo</strong>: Permette la visualizzazione del testo generato in tempo reale.<sup class="footnote" id="fnref-1"><a href="https://github.com/oobabooga/text-generation-webui" rel="footnote">3</a>  </sup><sup class="footnote" id="fnref-1"><a href="https://wikia.schneedc.com/en/backend/ooba" rel="footnote">4</a></sup></li>
 </ul>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Model_Settings.png" alt="Image description" width="826" height="890"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/Model_Settings.png" alt="Image description" width="826" height="890"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/19/responsive/Model_Settings-lg.webp 1024w"></figure></p>
 <p><em>Model Settings di Oobabooga</em></p>
 <h3 id="note">Note</h3>
 <ol>
@@ -848,13 +858,13 @@ Oobabooga é opensource ed offre un’alternativa alle chatbot con piani a pagam
         <author>
             <name>Andrea Pusceddu e Anna Maria Sanna</name>
         </author>
-        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-backyardai.html"/>
-        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-backyardai.html</id>
+        <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-backyardai/"/>
+        <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-backyardai/</id>
 
         <updated>2024-06-17T10:24:59+02:00</updated>
             <summary>
                 <![CDATA[
-                    In breve Backyard AI è una piattaforma per esperienze di narrazione e&hellip;
+                    In breve Backyard AI è una piattaforma per esperienze di narrazione e gioco di ruolo interattivo, alimentate da modelli linguistici AI, con diverse opzioni di&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -862,7 +872,7 @@ Oobabooga é opensource ed offre un’alternativa alle chatbot con piani a pagam
                 <h3 id="in-breve">In breve</h3>
 <p><em>Backyard AI</em> è una piattaforma per esperienze di narrazione e gioco di ruolo interattivo, alimentate da modelli linguistici AI, con diverse opzioni di accesso e utilizzo per adattarsi alle esigenze degli utenti. 
 La piattaforma si dimostra più user-friendly rispetto ad altri simili come Oobabooga e TavernAI non solo per le interfacce e la UI experience, ma anche nella sua installazione, nella sua impostazione, nella creazione di un personaggio e nell’accesso ad altri modelli scaricabili direttamente dal web.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/Backyard_1.png" alt="*Homepage di BackyardAI*" width="1918" height="1017"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/Backyard_1.png" alt="*Homepage di BackyardAI*" width="1918" height="1017"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_1-lg.webp 1024w"></figure></p>
 <p><em>Homepage di BackyardAI</em></p>
 <p>Il programma, a differenza sempre degli altri simili, risulta essere a pagamento e con necessità di un account collegato, in quanto la versione gratuita limita l’utente a 100 messaggi giornalieri. I character models supportano soltanto una versione personalizzata del Natural Language.</p>
 <p>Altro elemento facente parte della versione scaricabile direttamente su OS è il Character Hub, una piattaforma simil social dove è possibile consultare, scaricare e provare altri modelli.</p>
@@ -888,7 +898,7 @@ La piattaforma si dimostra più user-friendly rispetto ad altri simili come Ooba
 </ul>
 </li>
 </ol>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/Backyard_2.png" alt="*Tutti i modelli, scaricati e non, sono visibili in questa sezione di Manage Models*" width="1918" height="1017"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/Backyard_2.png" alt="*Tutti i modelli, scaricati e non, sono visibili in questa sezione di Manage Models*" width="1918" height="1017"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard_2-lg.webp 1024w"></figure></p>
 <p><em>Tutti i modelli, scaricati e non, sono visibili in questa sezione di Manage Models</em></p>
 <p>Una delle particolarità di BackyardAI inoltre riguarda la sfera NSFW, che viene inserita come opzione filtrata all’interno del character, sottolineando come si dia importanza ad un’eventuale chat per adulti. Altre sue caratteristiche già predisposte sono:</p>
 <ul>
@@ -896,7 +906,7 @@ La piattaforma si dimostra più user-friendly rispetto ad altri simili come Ooba
 <li>Un’interfaccia di model setting più semplice;</li>
 <li>Il text-to-speech già predisposto per ogni personaggio.</li>
 </ul>
-<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/Backyard.png" alt="*Il Model Settings di ogni personaggio*" width="1080" height="517"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-xs.png 320w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-sm.png 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-md.png 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-xl.png 1024w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/Backyard.png" alt="*Il Model Settings di ogni personaggio*" width="1080" height="517"  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-xs.webp 300w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-sm.webp 480w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-md.webp 768w ,https://rainkiller981.github.io/Ricerca_su_Chatbot/media/posts/18/responsive/Backyard-lg.webp 1024w"></figure></p>
 <p><em>Il Model Settings di ogni personaggio</em></p>
 <p>Si sottolinea che i modelli (e la maggior parte di quelli disponibili su Backyard AI) sono non filtrati. Ciò significa che le loro risposte non sono state modificate per rimuovere contenuti inappropriati o potenzialmente dannosi<sup class="footnote" id="fnref-1"><a href="https://backyard.ai" rel="footnote">1</a></sup>.</p>
 <h3 id="note">Note</h3>
