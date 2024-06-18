@@ -3,7 +3,7 @@
     <title>Chatbot</title>
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/feed.xml" rel="self" />
     <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot" />
-    <updated>2024-06-17T11:02:59+02:00</updated>
+    <updated>2024-06-18T23:19:39+02:00</updated>
     <author>
         <name>Andrea Pusceddu e Anna Maria Sanna</name>
     </author>
@@ -136,7 +136,7 @@
         <link href="https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm/"/>
         <id>https://rainkiller981.github.io/Ricerca_su_Chatbot/cosa-e-un-llm/</id>
 
-        <updated>2024-06-17T10:23:12+02:00</updated>
+        <updated>2024-06-18T23:19:39+02:00</updated>
             <summary>
                 <![CDATA[
                     In breve LLM o Large Language Models sono modelli linguistici di grandi dimensioni di deep learning in grado di svolgere un’ampia gamma di compiti legati&hellip;
@@ -174,7 +174,7 @@ In questo contesto, i <em>token</em> sono singole parole del testo e le caratter
 <p>Esempio: la contrazione <strong>“aren’t”</strong> può essere trattata come un singolo token, scomposto in <strong>“aren/‘/t”</strong>, o <strong>“are/n’t”</strong>. </p>
 <p>Lo schema di <em>tokenizzazione</em> scelto può avere un impatto significativo sui risultati dei vari modelli di intelligenza artificiale, quindi richiede un’attenta comprensione<sup class="footnote" id="fnref-1"><a href="none" rel="footnote">2</a></sup>.</p>
 <h3 id="embeddings">Embeddings</h3>
-<p>Gli <em>embeddings</em> sono rappresentazioni matematiche di dati come testi, immagini e audio, utilizzate da modelli di apprendimento automatico e algoritmi di ricerca semantica. Queste rappresentazioni trasformano oggetti in forme numeriche basate sulle loro caratteristiche e categorie. (rielaborazione chat)</p>
+<p>Gli <em>embeddings</em> sono rappresentazioni matematiche di dati come testi, immagini e audio, utilizzate da modelli di apprendimento automatico e algoritmi di ricerca semantica. Queste rappresentazioni trasformano oggetti in forme numeriche basate sulle loro caratteristiche e categorie.</p>
 <p>L’input <em>tokenizzato</em> viene elaborato attraverso diversi livelli. Un primo livello assegna un vettore a ciascun token. A seconda dell’architettura, questo vettore può contenere o meno la posizione del token nella sequenza.</p>
 <p><em>Embendding</em> dei token: Il primo vettore rappresenta il significato semantico del token, appreso durante l’addestramento. Serve come punto di partenza per la comprensione del modello.
 Gli <em>embeddings</em> che sono vicini fra loro sono considerabili come simili, utilizzando gli <em>embeddings</em> per questa funzione, l’algoritmo velocizza il processo di identificazione di parole simili fra loro, in quanto la distanza fra due vettori identifica la loro relazione (più piccola è la distanza, maggiore è la loro relazione)</p>
